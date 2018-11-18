@@ -53,7 +53,7 @@
     <td>Let blank boxes (also there is a difference if you let it blank or write something and clear)</td>
     <td>America<br/>Online shopping<br/>By air<br/> </td> 
     <td>Info about blank input</td> 
-    <td>0 AMD</td> 
+    <td>0 OR 400 AMD</td> 
     <td>Fail</td> 
   </tr>
 </table>
